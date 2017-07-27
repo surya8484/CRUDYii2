@@ -15,4 +15,8 @@ View:
 
 C:\wamp\www\yii-basic-app-2.0.12\basic\views\surya
 
+Database:
+
+Updatadated Database in DB file in config
+
 */
