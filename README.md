@@ -19,4 +19,9 @@ Database:
 
 Updatadated Database in DB file in config
 
+
+Link:
+
+http://localhost/yii-basic-app-2.0.12/basic/web/index.php?r=surya/index
+
 */
